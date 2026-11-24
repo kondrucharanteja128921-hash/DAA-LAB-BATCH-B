@@ -72,5 +72,5 @@ Time and Space Complexity
 O(V²) using an adjacency matrix; auxiliary space O(V²) for the matrix and O(V) for the selected array.
 Result
 Prim’s algorithm was implemented and tested. It selected V − 1 minimum-weight edges and calculated the MST
-cost.
+cost..
 
